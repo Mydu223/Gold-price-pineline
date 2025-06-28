@@ -85,6 +85,3 @@ DAG `fetch_and_store_gold_prices` được lên lịch chạy vào các giờ:
 - `sell_price` (FLOAT)
 - `time` (TIMESTAMP)
 
-## Tác giả
-
-Dự án được tạo để học tập và nghiên cứu về Apache Airflow và data engineering.
